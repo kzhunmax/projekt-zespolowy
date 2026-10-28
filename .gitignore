@@ -1,0 +1,25 @@
+# Microsoft Office: pliki blokad i tymczasowe
+~$*
+*.tmp
+
+# draw.io (desktop): kopie zapasowe i pliki tymczasowe
+.$*.bkp
+.$*.dtmp
+*.drawio.bkp
+
+# System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Edytory
+.vscode/
+.idea/
+*.swp
+
+# Wynik budowania dokumentu (docx/pdf generowane z Markdown)
+build/out/
+
+# Różne
+*.log
+*.bak
