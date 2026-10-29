@@ -12,7 +12,7 @@ Kompletny projekt systemu (bez implementacji) dla firmy serwisowej naprawiające
 |-------------------------|-----------------------------------------|
 | Maksym Korshun          | Kierownik projektu + Analityk biznesowy |
 | [Alla Parobii-Blazhevska](https://github.com/draco2773) | Architekt systemu |
-| Yulian Bezhenar         | Projektant UX/UI + Tester               |
+| [Yulian Bezhenar](https://github.com/R1kkuChan)         | Projektant UX/UI + Tester               |
 
 ## Linki
 
